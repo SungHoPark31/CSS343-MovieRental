@@ -1,0 +1,176 @@
+Welcome to WooYoung Kim's Movie Rental!
+----------------------------------------------
+
+Inventory: 
+C, 10, A Clockwork Orange, Stanley Kubrick, Malcolm McDowell, 2, 1971
+F, 10, Annie Hall, Woody Allen, 1977
+C, 10, Casablanca, Michael Curtiz, Ingrid Bergman, 8, 1942
+C, 10, Casablanca, Michael Curtiz, Humphrey Bogart, 8, 1942
+D, 10, Dogfight, Nancy Savoca, 1991
+F, 10, Fargo, Joel Coen, 1996
+C, 10, Gone With the Wind, Victor Fleming, Vivien Leigh, 2, 1939
+C, 10, Gone With the Wind, Victor Fleming, Clark Gable, 2, 1939
+D, 10, Good Morning Vietnam, Barry Levinson, 1988
+D, 10, Good Will Hunting, Gus Van Sant, 2000
+C, 10, Harold and Maude, Hal Ashby, Ruth Gordon, 3, 1971
+C, 10, Holiday, George Cukor, Katherine Hepburn, 9, 1938
+C, 10, Holiday, George Cukor, Cary Grant, 9, 1938
+C, 10, It's a Wonderful Life, Frank Capra, James Steward, 11, 1946
+C, 10, It's a Wonderful Life, Frank Capra, Donna Reed, 11, 1946
+D, 10, King of Hearts, Phillippe De Broca, 1967
+F, 10, National Lampoon's Animal House, John Landis, 1978
+F, 10, Pirates of the Caribbean, Gore Verbinski, 2003
+D, 10, Schindler's List, Steven Spielberg, 1993
+D, 10, Silence of the Lambs, Jonathan Demme, 1991
+F, 10, Sleepless in Seattle, Nora Ephron, 1993
+C, 10, The Maltese Falcon, John Huston, Humphrey Bogart, 10, 1941
+C, 10, The Philadelphia Story, George Cukor, Katherine Hepburn, 5, 1940
+C, 10, The Philadelphia Story, George Cukor, Cary Grant, 5, 1940
+C, 10, The Wizard of Oz, Victor Fleming, Judy Garland, 7, 1939
+D, 10, Unforgiven, Clint Eastwood, 1992
+F, 10, When Harry Met Sally, Rob Reiner, 1989
+F, 10, You've Got Mail, Nora Ephron, 1998
+
+History for Mouse Minnie 1000:
+-----------------------------------
+History is Empty
+
+History for Frog Freddie 5000:
+-----------------------------------
+History is Empty
+
+History for Wacky Wally 8000:
+-----------------------------------
+History is Empty
+
+8000: Borrowed You've Got Mail
+1000: Borrowed Good Morning Vietnam
+1000: Borrowed The Philadelphia Story with 5 Times
+2000: Borrowed Sleepless in Seattle
+4444: Borrowed A Clockwork Orange with 2 Times
+5000: Borrowed Harold and Maude with 3 Times
+5000: 8888: Borrowed Annie Hall
+1111: Borrowed A Clockwork Orange with 2 Times
+1111: Invalid Genre
+5000: Borrowed Harold and Maude with 3 Times
+5000: 1000: Borrowed Good Will Hunting
+2000: Borrowed King of Hearts
+4444: 1000: Borrowed The Philadelphia Story with 5 Times
+1111: Borrowed Harold and Maude with 3 Times
+1000: Borrowed Harold and Maude with 3 Times
+8888: Borrowed When Harry Met Sally
+8888: Borrowed Silence of the Lambs
+8000: Returned You've Got Mail
+9999: Cannot Find this movie You've Got  Mail
+8000: Borrowed Harold and Maude with 3 Times
+1111: Borrowed The Maltese Falcon with 10 Times
+8000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+Invalid Command
+1111: Borrowed Holiday with 9 Times
+5000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+8888: Borrowed Dogfight
+7777: Borrowed Schindler's List
+5000: Invalid Command
+5000: Borrowed Harold and Maude with 3 Times
+8000: Borrowed National Lampoon's Animal House
+8888: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+7777: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+2000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+2000: Borrowed Dogfight
+9000: Borrowed Unforgiven
+9000: Borrowed Fargo
+1234: Borrowed A Clockwork Orange with 2 Times
+1000: Cannot Find this movie Bogus Title
+Invalid Type
+2000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+9000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+9000: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+3333: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+7777: Harold and Maude with Gordon cannot be borrowed anymore
+Cannot Find This Movie Anywhere Else in the Store: Harold and Maude
+1000: Cannot Find this movie Bogus Title Steven Spielberg
+
+Inventory: 
+C, 6, A Clockwork Orange, Stanley Kubrick, Malcolm McDowell, 2, 1971
+F, 9, Annie Hall, Woody Allen, 1977
+C, 10, Casablanca, Michael Curtiz, Ingrid Bergman, 8, 1942
+C, 10, Casablanca, Michael Curtiz, Humphrey Bogart, 8, 1942
+D, 8, Dogfight, Nancy Savoca, 1991
+F, 9, Fargo, Joel Coen, 1996
+C, 10, Gone With the Wind, Victor Fleming, Vivien Leigh, 2, 1939
+C, 10, Gone With the Wind, Victor Fleming, Clark Gable, 2, 1939
+D, 9, Good Morning Vietnam, Barry Levinson, 1988
+D, 9, Good Will Hunting, Gus Van Sant, 2000
+C, 0, Harold and Maude, Hal Ashby, Ruth Gordon, 3, 1971
+C, 1, Holiday, George Cukor, Katherine Hepburn, 9, 1938
+C, 10, Holiday, George Cukor, Cary Grant, 9, 1938
+C, 10, It's a Wonderful Life, Frank Capra, James Steward, 11, 1946
+C, 10, It's a Wonderful Life, Frank Capra, Donna Reed, 11, 1946
+D, 9, King of Hearts, Phillippe De Broca, 1967
+F, 9, National Lampoon's Animal House, John Landis, 1978
+F, 10, Pirates of the Caribbean, Gore Verbinski, 2003
+D, 9, Schindler's List, Steven Spielberg, 1993
+D, 9, Silence of the Lambs, Jonathan Demme, 1991
+F, 9, Sleepless in Seattle, Nora Ephron, 1993
+C, 0, The Maltese Falcon, John Huston, Humphrey Bogart, 10, 1941
+C, 0, The Philadelphia Story, George Cukor, Katherine Hepburn, 5, 1940
+C, 10, The Philadelphia Story, George Cukor, Cary Grant, 5, 1940
+C, 10, The Wizard of Oz, Victor Fleming, Judy Garland, 7, 1939
+D, 9, Unforgiven, Clint Eastwood, 1992
+F, 9, When Harry Met Sally, Rob Reiner, 1989
+F, 10, You've Got Mail, Nora Ephron, 1998
+
+History for Mouse Minnie 1000:
+-----------------------------------
+Bogus Title is not in the store.
+Invalid Type
+Bogus Title is not in the store.
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+Borrowed 5 copies of The Philadelphia Story with Katherine Grant
+Borrowed: Good Will Hunting directed by Gus Van Sant
+Borrowed 5 copies of The Philadelphia Story with Katherine Hepburn
+Borrowed: Good Morning Vietnam directed by Barry Levinson
+
+History for Mouse Mickey 1111:
+-----------------------------------
+Borrowed 9 copies of Holiday with Katherine Grant
+Borrowed 10 copies of The Maltese Falcon with Humphrey Bogart
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+Invalid Genre
+Borrowed 2 copies of A Clockwork Orange with Malcolm McDowell
+
+History for Frog Freddie 5000:
+-----------------------------------
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+Returned 3 copies of Harold and Maude with Ruth Gordon
+Cannot find Harold and Maude anywhere in the store or stock is empty
+Returned 3 copies of Harold and Maude with Ruth Gordon
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+Returned 3 copies of Harold and Maude with Ruth Gordon
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+
+History for Wacky Wally 8000:
+-----------------------------------
+Borrowed: National Lampoon's Animal House
+Cannot find Harold and Maude anywhere in the store or stock is empty
+Borrowed 3 copies of Harold and Maude with Ruth Gordon
+Returned: You've Got Mail
+Borrowed: You've Got Mail
+
+History for Pig Porky 8888:
+-----------------------------------
+Cannot find Harold and Maude anywhere in the store or stock is empty
+Borrowed: Dogfight directed by Nancy Savoca
+Borrowed: Silence of the Lambs directed by Jonathan Demme
+Borrowed: When Harry Met Sally
+Borrowed: Annie Hall
+
